@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/codewithsahildhawan/spotlight-ilove">
-    <img src="img/img.jpg" alt="Logo" width="1000" height="800">
+    <img src="img/img.jpg" alt="Logo" width="1000" height="400">
   </a>
 
   <h3 align="center">Digital Clock</h3>
