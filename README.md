@@ -9,7 +9,7 @@
     <img src="img/img.jpg" alt="Logo" width="1000" height="400">
   </a>
 
-  <h3 align="center">Digital Clock</h3>
+  <h3 align="center">Spotlight Effect</h3>
 </div>
 
 
